@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AndroidDesignerPreferredDevice>7in WSVGA %28Tablet%29</AndroidDesignerPreferredDevice>
+    <SelectedDevice>4.5" Lollipop %285.1.1%29 XHDPI Phone</SelectedDevice>
+    <AndroidDesignerPreferredTheme>Theme.DeviceDefault</AndroidDesignerPreferredTheme>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,36 @@
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:minWidth="25px" android:minHeight="25px" xmlns:android="http://schemas.android.com/apk/res/android"><LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingLeft="15dp" android:paddingRight="15dp" android:paddingTop="15dp" android:layout_weight="100"><LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout2" android:layout_weight="20" android:gravity="center"><TextView android:text="Datos a Registrar" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/txtNombre" android:paddingBottom="2dp" /><!--<TextView
+                android:text="Número de identificación"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtNumeroIdentificacion"
+                android:paddingBottom="2dp" />
+            <TextView
+                android:text="Clase, código y placa del vehiculo"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txtDatosVehiculo" />--></LinearLayout><LinearLayout android:orientation="horizontal" android:minWidth="25px" android:minHeight="25px" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout4" android:layout_weight="5" android:gravity="right"><CheckBox android:text="Resultado Positivo" android:layout_width="wrap_content" android:layout_height="match_parent" android:id="@+id/chkResultadoPositivo" android:layout_weight="50" /><CheckBox android:text="Resultado Negativo" android:layout_width="wrap_content" android:layout_height="match_parent" android:id="@+id/chkResultadoNegativo" android:layout_weight="50" /><CheckBox android:text="Registrar Reintento" android:layout_width="wrap_content" android:layout_height="match_parent" android:id="@+id/chkReintento" android:layout_weight="50" /><!--<TextView
+                android:text="Total multa:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/textView4" />
+            <TextView
+                android:text="Monto de la multa"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/txtMontoMulta"
+                android:paddingLeft="5dp" />--></LinearLayout><LinearLayout android:orientation="horizontal" android:minWidth="25px" android:minHeight="25px" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout5" android:layout_weight="20"><TextView android:text="Por la razón:" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_width="wrap_content" android:layout_height="match_parent" android:id="@+id/textView4" /><Spinner android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/spnOpciones" android:minHeight="40dp" /><ListView android:minWidth="25px" android:minHeight="40px" android:layout_width="match_parent" android:layout_height="match_parent" android:id="@+id/listViewOpciones" /></LinearLayout><LinearLayout android:orientation="horizontal" android:minWidth="25px" android:minHeight="25px" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout5b" android:layout_weight="20"><CheckBox android:text="Firma Testigo" android:layout_width="wrap_content" android:layout_height="match_parent" android:id="@+id/chkNoFirma" android:layout_weight="50" /><Button android:text="Firma Notificando" android:layout_width="wrap_content" android:layout_height="40dp" android:id="@+id/btnFirmarUsuario" android:background="@drawable/gris_button" /></LinearLayout><LinearLayout android:orientation="horizontal" android:minWidth="25px" android:minHeight="25px" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/LayoutJustificacion" android:layout_weight="20"><TextView android:text="Firma de testigo" android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/textView5" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_weight="50" /><Button android:text="Firma Testigo" android:layout_width="wrap_content" android:layout_height="40dp" android:id="@+id/btnFirmarTestigo" android:background="@drawable/gris_button" /></LinearLayout><LinearLayout android:orientation="horizontal" android:minWidth="25px" android:minHeight="25px" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/LayoutJustificacion2" android:layout_weight="10"><TextView android:text="Nombre del testigo" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_width="wrap_content" android:layout_height="match_parent" android:id="@+id/textView7" /><EditText android:id="@+id/editText2" android:layout_width="match_parent" android:layout_height="wrap_content" /></LinearLayout><LinearLayout android:orientation="vertical" android:minWidth="25px" android:minHeight="25px" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/linearLayout6" android:layout_weight="20" android:gravity="center"><LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="75dp" android:id="@+id/LayoutJustificacion3" android:minWidth="25px" android:minHeight="25px"><!--<TextView
+                    android:text="Observaciones"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent" />
+                <Button
+                    android:text="Firma Testigo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:id="@+id/btnFirmarTestigo"
+                    android:background="@drawable/gris_button" />--><TextView android:text="Observaciones" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_width="wrap_content" android:layout_height="match_parent" android:id="@+id/textView6" /></LinearLayout><EditText android:id="@+id/editText1" android:layout_width="match_parent" android:layout_height="wrap_content" /><Button android:text="Guardar" android:layout_width="120dp" android:layout_height="40dp" android:id="@+id/btnGuardar" android:layout_gravity="center" android:background="@drawable/gris_button" /></LinearLayout></LinearLayout></LinearLayout>

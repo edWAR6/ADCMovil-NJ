@@ -1,0 +1,632 @@
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.pdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\com.refractored.navdrawer.samplecompat.apk
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\com.refractored.navdrawer.samplecompat-Signed.apk
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Refractored.Controls.CircleImageView.dll
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.dll
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.pdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\bin\com.refractored.navdrawer.samplecompat.apk
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values-v21\styles.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\toolbar.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\dimens.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment1.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment2.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\main.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\nav_header.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\login.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\include_list_viewpager.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\mailboxes.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentlogin.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentrecyclerview.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\list_item.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentsearch.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\colors.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\integers.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\strings.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\styles.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values-land\dimens.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\arrays.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_home_1.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_home_1.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_home_1.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_home_1.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_home_2.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_home_2.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_home_2.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_home_2.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\nav_menu.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_menu.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_menu.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_menu.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\drawer_view.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\check.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\main_menu.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\search_icon.png
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\R.cs.flag
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\uploadflags.txt
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Java.Interop.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Mono.Android.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\mscorlib.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Core.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Xml.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.csprojResolveAssemblyReference.cache
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\auxmenu.xml
+C:\Users\fzele\documents\visual studio 2015\Projects\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.pdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\com.refractored.navdrawer.samplecompat.apk
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\com.refractored.navdrawer.samplecompat-Signed.apk
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Refractored.Controls.CircleImageView.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.csprojResolveAssemblyReference.cache
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.dll
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.pdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\bin\com.refractored.navdrawer.samplecompat.apk
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values-v21\styles.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\toolbar.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\dimens.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment1.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment2.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\main.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\nav_header.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\login.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\include_list_viewpager.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\mailboxes.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentlogin.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentrecyclerview.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\list_item.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentsearch.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\activity_detail.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\activity_bottomsheet.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentmap.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\dialogmensaje.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\colors.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\integers.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\strings.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\styles.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values-land\dimens.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\arrays.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_home_1.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_home_1.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_home_1.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_home_1.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_home_2.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_home_2.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_home_2.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_home_2.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\nav_menu.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_menu.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_menu.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_menu.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\drawer_view.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\check.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\search_icon.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\auxmenu.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\sample_actions.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\theme.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pjlogo.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\splash.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\change.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\map.png
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\ventanaobservaciones.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\gris_button.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\R.cs.flag
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\uploadflags.txt
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Java.Interop.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Mono.Android.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\mscorlib.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Core.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Data.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Numerics.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Transactions.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Xml.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentdialog.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentselectiondialog.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentdialogfull.xml
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Documents\Visual Studio 2015\Projects\AndroidAPI22ADCLibrary2Ver1.3\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.csprojResolveAssemblyReference.cache
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.pdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\com.refractored.navdrawer.samplecompat.apk
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\com.refractored.navdrawer.samplecompat-Signed.apk
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Refractored.Controls.CircleImageView.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\SignaturePad.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.pdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\bin\com.refractored.navdrawer.samplecompat.apk
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values-v21\styles.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\toolbar.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\dimens.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment1.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment2.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\main.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\nav_header.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\login.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\include_list_viewpager.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\mailboxes.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentlogin.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentrecyclerview.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\list_item.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentsearch.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\activity_detail.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\activity_bottomsheet.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentmap.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentdialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentselectiondialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentdialogfull.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\firmas.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\impresion.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\servicedialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentyesno.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\seleccionarnotificador.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\simpledialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\addservicedialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\test.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\signaturedialogfragment.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\dialogmensaje.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\colors.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\integers.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\strings.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\styles.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values-land\dimens.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\arrays.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\nav_menu.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\drawer_view.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\check.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\search_icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\auxmenu.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\sample_actions.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\theme.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pjlogo.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\splash.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\change.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\map.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\ventanaobservaciones.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\gris_button.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\edit.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pjlogo2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pjlogo3.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\app_icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pj228x78.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pj170x78.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment_edit_name.xml.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\alerta.jpg
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\alertanuevo.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\splash_screen.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\splash_logo.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\ids.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\R.cs.flag
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\uploadflags.txt
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.csprojResolveAssemblyReference.cache
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Java.Interop.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Mono.Android.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\mscorlib.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Core.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Data.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Numerics.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Transactions.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Xml.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll.config
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.pdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\com.refractored.navdrawer.samplecompat.apk
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\com.refractored.navdrawer.samplecompat-Signed.apk
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.Identity.Client.Platform.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Refractored.Controls.CircleImageView.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\SignaturePad.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.Identity.Client.Platform.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.pdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\bin\com.refractored.navdrawer.samplecompat.apk
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values-v21\styles.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\toolbar.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\dimens.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment2.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\main.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\nav_header.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\login.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\include_list_viewpager.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\mailboxes.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentlogin.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentrecyclerview.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\list_item.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentsearch.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\activity_bottomsheet.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentdialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentselectiondialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentdialogfull.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\firmas.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\servicedialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentyesno.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\seleccionarnotificador.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\simpledialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\addservicedialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\test.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\signaturedialogfragment.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\notificacionespornotificadoroutput.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\notificacionespornotificadorinput.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment1.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentmap.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\activity_detail.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\reintentonotificacion.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\impresion.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\asignarrolnocturno.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\dialogmensaje.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\colors.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\integers.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\strings.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\styles.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values-land\dimens.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\arrays.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\nav_menu.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\drawer_view.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\check.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\search_icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\auxmenu.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\sample_actions.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\theme.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pjlogo.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\splash.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\change.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\map.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\ventanaobservaciones.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\gris_button.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\edit.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pjlogo2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pjlogo3.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\app_icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pj228x78.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pj170x78.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment_edit_name.xml.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\alerta.jpg
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\alertanuevo.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\splash_screen.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\splash_logo.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\ids.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\adminmenu.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\notifmenu.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\R.cs.flag
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\uploadflags.txt
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.csprojResolveAssemblyReference.cache
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Java.Interop.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Mono.Android.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\mscorlib.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Core.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Data.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Numerics.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Transactions.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Xml.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary2Ver.1.23\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll.config
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.pdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\com.refractored.navdrawer.samplecompat.apk
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\com.refractored.navdrawer.samplecompat-Signed.apk
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.Identity.Client.Platform.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Refractored.Controls.CircleImageView.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\SignaturePad.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.Identity.Client.Platform.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.csprojResolveAssemblyReference.cache
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.dll
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.pdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\bin\com.refractored.navdrawer.samplecompat.apk
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values-v21\styles.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\toolbar.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\dimens.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment2.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\main.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\nav_header.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\login.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\include_list_viewpager.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\mailboxes.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentlogin.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentrecyclerview.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\list_item.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentsearch.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\activity_bottomsheet.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentdialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentselectiondialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentdialogfull.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\firmas.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\servicedialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentyesno.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\seleccionarnotificador.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\simpledialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\addservicedialog.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\test.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\signaturedialogfragment.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragmentmap.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\activity_detail.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\reintentonotificacion.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\impresion.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\asignarrolnocturno.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\commonreportinput.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\commonreportoutput.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment1.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\dialogmensaje.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\colors.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\integers.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\strings.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\styles.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values-land\dimens.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\arrays.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_home_1.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_home_2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\nav_menu.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-hdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-mdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xhdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\drawer_view.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\check.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\search_icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\auxmenu.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\sample_actions.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\theme.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pjlogo.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\splash.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\change.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\map.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\ventanaobservaciones.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\gris_button.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\edit.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pjlogo2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pjlogo3.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\app_icon.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pj228x78.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\pj170x78.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\fragment_edit_name.xml.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\alerta.jpg
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\alertanuevo.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\splash_screen.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\splash_logo.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\values\ids.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\adminmenu.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\menu\notifmenu.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\R.cs.flag
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\uploadflags.txt
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Java.Interop.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Mono.Android.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\mscorlib.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Core.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Data.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Numerics.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Transactions.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Xml.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\ico_amarillo.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\ico_azul.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\ico_urgente.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\ico_verde.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\registrodatos.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\reintento.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\registrodatos2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\reintento2.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\reintento3.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\save.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\layout\detalle.xml
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\res\drawable\calendar.png
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\AndroidAPI22ADCLibrary.dll.mdb
+C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\bin\Debug\AndroidAPI22ADCLibrary.dll.mdb

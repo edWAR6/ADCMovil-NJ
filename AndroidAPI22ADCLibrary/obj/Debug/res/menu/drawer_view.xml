@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"><group android:checkableBehavior="single"><item android:id="@+id/nav_reportes" android:icon="@drawable/ic_home_1" android:title="Reportes" /><!--<item
+          android:id="@+id/nav_rutas"
+          android:icon="@drawable/ic_home_1"
+          android:title="Ver rutas en mapa" />--><item android:id="@+id/nav_buzones" android:icon="@drawable/ic_home_2" android:title="Buzones" /><item android:id="@+id/nav_cierre_sesion" android:icon="@drawable/ic_home_2" android:title="Cierre de Sesion" /><!--<item
+        android:id="@+id/nav_discussion"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Reportes" />
+	<item
+        android:id="@+id/nav_discussion"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Reportes" />--></group><!--Posiblies iconos: ic_dashboard, ic_event ,ic_headset, ic_forum --><!--<item android:title="Sub items">
+    <menu>
+      <item
+          android:icon="@drawable/ic_dashboard"
+          android:title="Sub item 1" />
+      <item
+          android:icon="@drawable/ic_forum"
+          android:title="Sub item 2" />
+    </menu>
+  </item>--></menu>

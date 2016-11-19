@@ -1,0 +1,9 @@
+<!--<?xml version="1.0" encoding="utf-8" ?>
+
+  <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/search"
+          android:title="@string/action_search"
+          android:icon="@drawable/search_icon"
+          android:showAsAction="ifRoom"
+          android:actionViewClass="android.widget.SearchView" />  
+</menu>--><!-- res/menu/menu.xml --><menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/search" android:orderInCategory="5" android:title="Search" android:icon="@drawable/search_icon" app:showAsAction="ifRoom|collapseActionView" app:actionViewClass="android.support.v7.widget.SearchView" /><!--android:icon="@drawable/change"--><item android:id="@+id/change" android:orderInCategory="5" android:title="@string/change" app:showAsAction="ifRoom|collapseActionView" /><item android:id="@+id/reasignar" android:orderInCategory="5" android:title="@string/reasignar" app:showAsAction="ifRoom|collapseActionView" /><item android:id="@+id/aceptar" android:orderInCategory="5" android:title="@string/Aceptar" app:showAsAction="ifRoom|collapseActionView" /><item android:id="@+id/rechazar" android:orderInCategory="5" android:title="@string/Rechazar" app:showAsAction="ifRoom|collapseActionView" /></menu>

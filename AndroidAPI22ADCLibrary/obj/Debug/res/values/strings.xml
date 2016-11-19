@@ -1,0 +1,13 @@
+<resources><string name="app_name">PJNotificaciones</string><string name="drawer_open">Open</string><string name="drawer_close">Close</string><string name="menu_refresh">Refresh</string><string name="fragment1">Selección de Reportes</string><string name="fragment2">You are on Fragment 2</string><string name="action_search">Search</string><string name="menu_settings">Registrar Datos</string><string name="change">Asignar</string><string name="reasignar">Re-Asignar</string><string name="Aceptar">Aceptar</string><string name="Rechazar">Rechazar</string><string name="cheese_ipsum">
+    Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.
+  </string><string name="ipsum">
+    Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.
+  </string><string name="MensajeErrorCargaBaseDatos">Error al conectarse con la base de datos, por favor intentar nuevamente. Si el problema persiste contactarse con soporte.</string></resources>

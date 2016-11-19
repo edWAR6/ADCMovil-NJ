@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/admin_rolnocturno"
+        android:icon="@drawable/ic_home_1"
+        android:title="Asignar Rol Nocturno" />
+  </group>
+
+  <group>
+    <item
+        android:id="@+id/admin_reportes"
+        android:icon="@drawable/ic_home_1"
+        android:title="Reportes" />
+  </group>
+  <group>
+    <item
+        android:id="@+id/buzones"
+        android:icon="@drawable/ic_home_1"
+        android:title="Buzones" />
+  </group>
+  <group>
+    <item
+         android:id="@+id/admin_cierre"
+         android:icon="@drawable/ic_home_2"
+         android:title="Cierre de Sesion" />
+  </group>
+
+</menu>

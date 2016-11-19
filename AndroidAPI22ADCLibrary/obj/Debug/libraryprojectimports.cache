@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\__library_projects__\Microsoft.Identity.Client.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\__library_projects__\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\__library_projects__\Refractored.Controls.CircleImageView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\__library_projects__\SignaturePad\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.Identity.Client.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Refractored.Controls.CircleImageView\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SignaturePad\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\__library_projects__\Microsoft.Identity.Client.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\__library_projects__\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\__library_projects__\Refractored.Controls.CircleImageView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\fzele\Desktop\AndroidAPI22ADCLibrary\AndroidAPI22ADCLibrary\obj\Debug\__library_projects__\SignaturePad.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

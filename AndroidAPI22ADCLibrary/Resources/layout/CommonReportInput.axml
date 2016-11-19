@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/layoutReportInfo">
+    <TextView
+        android:text="Datos de entrada para el reporte"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewReportInputInfo" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayoutInputOficina"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <TextView
+            android:text="Oficina"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <Spinner
+            android:id="@+id/spinnerInputOficina"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayoutInputDespacho"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <TextView
+            android:text="Despacho"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <Spinner
+            android:id="@+id/spinnerInputDespacho"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayoutInputNotificador">
+        <TextView
+            android:text="Notificador"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <Spinner
+            android:id="@+id/spinnerInputNotificador"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayoutInputFechaInicio">
+        <TextView
+            android:text="Fecha de Inicio"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/textViewInputFechaInicio"
+            android:layout_width="176.0dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayoutInputFechaFin">
+        <TextView
+            android:text="Fecha Fin"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="94.0dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/textViewInputFechaFin"
+            android:layout_width="203.0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="143.0dp" />
+    </LinearLayout>
+    <LinearLayout
+          android:orientation="horizontal"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:id="@+id/linearLayoutInputFechaJornada" >
+      <TextView
+          android:text="Fecha Jornada"
+          android:textAppearance="?android:attr/textAppearanceMedium"
+          android:layout_width="94.0dp"
+          android:layout_height="match_parent" />
+      <TextView
+          android:id="@+id/textViewInputFechaJornada"
+          android:layout_width="203.0dp"
+          android:layout_height="match_parent"
+          android:layout_marginRight="143.0dp" />
+    </LinearLayout>
+    <Button
+        android:text="Generar reporte"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:id="@+id/btnGenerarReporte"
+        android:background="@drawable/gris_button"
+        android:layout_gravity="center" />
+</LinearLayout>
