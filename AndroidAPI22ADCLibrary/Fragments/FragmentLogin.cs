@@ -34,6 +34,8 @@ namespace AndroidAPI22ADCLibrary.Fragments
         public static string codNotificador = "";
         public static string cuotaMinima = "";
 
+        
+
         //private AuthenticationContext authContext;
         //private TokenCacheItem tokenCacheItem;
 
@@ -59,6 +61,15 @@ namespace AndroidAPI22ADCLibrary.Fragments
         {
             base.OnCreate(savedInstanceState);
             // Create your fragment here
+
+            //var authContext = new AuthenticationContext(commonAuthority);
+            //if (authContext.TokenCache.ReadItems().Count() > 0)
+            //    authContext = new AuthenticationContext(authContext.TokenCache.ReadItems().First().Authority);
+
+            //var platformParams = new PlatformParameters(this.Activity);
+            //authResult = await authContext.AcquireTokenAsync(graphResourceUri, clientId, returnUri, platformParams);
+
+
         }
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
@@ -158,9 +169,9 @@ namespace AndroidAPI22ADCLibrary.Fragments
                                                 //se realiza la comprobacion si se tiene una sesion abierta
 
                                                 servicioCheckDB coneccion = new servicioCheckDB();
-                                                var sesionAbierta = coneccion.ObtenerString("https://pjgestionnotificacionmovilservicios.azurewebsites.net/api/OficialNotificador/OficialConCierrePendiente?PCodNotificador="+codNotificador+"", Activity);
+                                                var sesionAbierta = coneccion.ObtenerString("https://pjgestionnotificacionmovilservicios.azurewebsites.net/api/OficialNotificador/OficialConCierrePendiente?PCodNotificador=" + codNotificador + "", Activity);
                                                 //   "\"\""
-                                                if (!sesionAbierta.Equals("\"\"",StringComparison.Ordinal))
+                                                if (!sesionAbierta.Equals("\"\"", StringComparison.Ordinal))
                                                 {
                                                     Console.WriteLine("Sesion abierta");
                                                     AlertDialog.Builder alerta = new AlertDialog.Builder(this.Context);
@@ -179,7 +190,7 @@ namespace AndroidAPI22ADCLibrary.Fragments
                                                     Toast.MakeText(this.Activity, "Cargando Datos ", ToastLength.Long).Show();
                                                     Intent intent = new Intent(this.Activity, typeof(SplashActivity));
                                                     StartActivity(intent);
-                                                }             
+                                                }
                                             }
                                             catch (Exception ex) { Console.WriteLine("Error descargando datos de usuario: " + ex.ToString()); }
 
@@ -204,7 +215,7 @@ namespace AndroidAPI22ADCLibrary.Fragments
                     else { Toast.MakeText(this.Activity, "Usted ha digitado un usuario y contraseña incorrecta.", ToastLength.Short).Show(); }
 
                 }
-                catch(Exception ex){ Console.WriteLine("Error en autenticación "+ex.ToString()); }
+                catch (Exception ex) { Console.WriteLine("Error en autenticación " + ex.ToString()); }
 
             };
 

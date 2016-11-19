@@ -462,6 +462,13 @@
                                 android:id="@+id/textView24"
                                 android:textStyle="bold"
                                 android:textColor="@color/textbody" />
+                            <TextView
+                                android:text="12-09-2016"
+                                android:textColor="@color/textbody"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:id="@+id/txtFechaResolucion" />
                         </LinearLayout>
                         <LinearLayout
                             android:orientation="horizontal"
@@ -478,6 +485,13 @@
                                 android:id="@+id/textView25"
                                 android:textStyle="bold"
                                 android:textColor="@color/textbody" />
+                            <TextView
+                                android:text="Circuito Segundo"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:textColor="@color/textbody"
+                                android:id="@+id/txtDespacho" />
                         </LinearLayout>
                         <LinearLayout
                             android:orientation="horizontal"
@@ -515,6 +529,13 @@
                                 android:id="@+id/textView23"
                                 android:textStyle="bold"
                                 android:textColor="@color/textbody" />
+                            <TextView
+                                android:text="Si/No"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:textColor="@color/textbody"
+                                android:id="@+id/txtUrgente" />
                         </LinearLayout>
                         <LinearLayout
                             android:orientation="horizontal"

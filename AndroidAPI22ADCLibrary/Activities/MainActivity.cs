@@ -184,6 +184,11 @@ namespace AndroidAPI22ADCLibrary.Activities
                 {
                     //ListItemClicked(0);
                 }
+                if (info.Equals("DETALLE", StringComparison.Ordinal))
+                {
+                    Android.Support.V4.App.Fragment fragment = Fragments.Fragment2.NewInstance(codigoNotificacion);
+                    SupportFragmentManager.BeginTransaction().Replace(Resource.Id.content_frame, fragment).Commit();
+                }
                 if (info.Equals("REPORTES", StringComparison.Ordinal))
                 {
                     ListItemClicked(1);

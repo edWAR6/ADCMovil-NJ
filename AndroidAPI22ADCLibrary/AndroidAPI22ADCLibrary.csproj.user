@@ -4,5 +4,6 @@
     <AndroidDesignerPreferredDevice>7in WSVGA %28Tablet%29</AndroidDesignerPreferredDevice>
     <SelectedDevice>4.5" Lollipop %285.1.1%29 XHDPI Phone</SelectedDevice>
     <AndroidDesignerPreferredTheme>Theme.DeviceDefault</AndroidDesignerPreferredTheme>
+    <ProjectView>ProjectFiles</ProjectView>
   </PropertyGroup>
 </Project>

@@ -340,7 +340,7 @@ namespace AndroidAPI22ADCLibrary.Activities
                         if (FragmentLogin.supervisor.Equals("True", StringComparison.Ordinal) || FragmentLogin.supervisor.Equals("true", StringComparison.Ordinal))
                         {
                             
-                            resultado = ManejoBaseDatos.Insertar("Notificaciones", "CodigoNotificacion,Expediente,DespachoDescripcion,Notificando,Medio,Provincia,Canton,Distrito,Direccion,Sector,Urgente,FechaDocumento,FechaEmision,Visitas,Estado",
+                            resultado = ManejoBaseDatos.Insertar("Notificaciones", "CodigoNotificacion,Expediente,DespachoDescripcion,Notificando,Medio,Provincia,Canton,Distrito,Direccion,Sector,Urgente,FechaDocumento,FechaEmision,Visitas,HorarioEntrega,Estado",
                                                           jsonParsed[k]["CodNotificacion"].ToString() + ", " +
                                                     "'" + jsonParsed[k]["NumExpediente"].ToString() + "'," +
                                                     "'" + jsonParsed[k]["Despacho"]["Descripcion"].ToString() + "'," +
@@ -355,12 +355,13 @@ namespace AndroidAPI22ADCLibrary.Activities
                                                     "'" + jsonParsed[k]["FechaDocumento"].ToString() + "'," +
                                                     "'" + jsonParsed[k]["FechaEmision"].ToString() + "'," +
                                                     "" + jsonParsed[k]["Visitas"].ToString() + "," +
+                                                    "'" + jsonParsed[k]["HorarioEntrega"].ToString() + "'," +
                                                     "'" + jsonParsed[k]["Estado"].ToString() + "'");
                             
                         }
                         else
                         {
-                            resultado = ManejoBaseDatos.Insertar("Notificaciones", "CodigoNotificacion,Expediente,DespachoDescripcion,Notificando,Medio,Provincia,Canton,Distrito,Direccion,Sector,Urgente,FechaDocumento,FechaEmision,Visitas,Estado,CodNotificador,RolNocturno,DespachoCodigo,DespachoDescripcion",
+                            resultado = ManejoBaseDatos.Insertar("Notificaciones", "CodigoNotificacion,Expediente,DespachoDescripcion,Notificando,Medio,Provincia,Canton,Distrito,Direccion,Sector,Urgente,FechaDocumento,FechaEmision,Visitas,Estado,CodNotificador,RolNocturno,DespachoCodigo,HorarioEntrega,DespachoDescripcion",
                                                           jsonParsed[k]["CodNotificacion"].ToString() + ", " +
                                                     "'" + jsonParsed[k]["NumExpediente"].ToString() + "'," +
                                                      "'" + jsonParsed[k]["Despacho"]["Descripcion"].ToString() + "'," +
@@ -379,6 +380,7 @@ namespace AndroidAPI22ADCLibrary.Activities
                                                     "'" + jsonParsed[k]["OficialNotificador"]["CodNotificador"].ToString() + "'," +
                                                     "'" + jsonParsed[k]["OficialNotificador"]["RolNocturno"].ToString() + "'," +
                                                     "'" + jsonParsed[k]["Despacho"]["Codigo"].ToString() + "'," +
+                                                     "'" + jsonParsed[k]["HorarioEntrega"].ToString() + "'," +
                                                     "'" + jsonParsed[k]["Despacho"]["Descripcion"].ToString() + "'");
                         }
                         if (!String.IsNullOrEmpty(resultado))

@@ -26,11 +26,16 @@ namespace AndroidAPI22ADCLibrary.Fragments
         private TextView mDistrito;
         private TextView mDireccion;
         private TextView mCopias;
+
         private TextView mOficial;
         private TextView mFechaNotificacion;
         private TextView mresultadoNotificacion;
 
-
+        private TextView mFechaResolucion;
+        private TextView mDespacho;
+        private TextView mNotificando;
+        private TextView mUrgente;
+        private TextView mHorario;
 
         public override void OnCreate(Bundle savedInstanceState)
         {
@@ -58,12 +63,17 @@ namespace AndroidAPI22ADCLibrary.Fragments
             mFormaNotificacion = view.FindViewById<TextView>(Resource.Id.txtFormaNotificacion);
             mProvincia = view.FindViewById<TextView>(Resource.Id.txtProvincia);
             mCanton = view.FindViewById<TextView>(Resource.Id.txtCanton);
-            mDistrito = view.FindViewById<TextView>(Resource.Id.txtDistrito);
-            mDireccion = view.FindViewById<TextView>(Resource.Id.txtDistrito);
+            mDistrito = view.FindViewById<TextView>(Resource.Id.textDistrito);
+            mDireccion = view.FindViewById<TextView>(Resource.Id.txtDireccion);
             mCopias = view.FindViewById<TextView>(Resource.Id.txtCopias);
             mOficial = view.FindViewById<TextView>(Resource.Id.txtOficialNombreDatos);
             mFechaNotificacion = view.FindViewById<TextView>(Resource.Id.txtFechaNotificacion);
             mresultadoNotificacion = view.FindViewById<TextView>(Resource.Id.txtResultadoNotificacion);
+            mFechaResolucion = view.FindViewById<TextView>(Resource.Id.txtFechaResolucion);
+            mDespacho = view.FindViewById<TextView>(Resource.Id.txtDespacho);
+            mNotificando = view.FindViewById<TextView>(Resource.Id.txtNotificandoNombre);
+            mUrgente = view.FindViewById<TextView>(Resource.Id.txtUrgente);
+            mHorario = view.FindViewById<TextView>(Resource.Id.txtHorario);
 
             Switch mSwitch = view.FindViewById<Switch>(Resource.Id.monitored_switch);
 
@@ -105,12 +115,17 @@ namespace AndroidAPI22ADCLibrary.Fragments
                     {
                         mExpediente.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Expediente"))) ? mCursor.GetString(mCursor.GetColumnIndex("Expediente")) : ""); 
                         mSector.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Sector"))) ? mCursor.GetString(mCursor.GetColumnIndex("Sector")) : ""); 
-
                         mProvincia.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Provincia"))) ? mCursor.GetString(mCursor.GetColumnIndex("Provincia")) : "");
-                        mCanton.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Canton"))) ? mCursor.GetString(mCursor.GetColumnIndex("Canton")) : ""); ;
-                        mDistrito.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Distrito"))) ? mCursor.GetString(mCursor.GetColumnIndex("Distrito")) : ""); ;
-
-
+                        mCanton.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Canton"))) ? mCursor.GetString(mCursor.GetColumnIndex("Canton")) : ""); 
+                        mDireccion.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Direccion"))) ? mCursor.GetString(mCursor.GetColumnIndex("Direccion")) : ""); 
+                        mSector.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Sector"))) ? "S-"+mCursor.GetString(mCursor.GetColumnIndex("Sector")) : "");
+                        mDistrito.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Distrito"))) ? mCursor.GetString(mCursor.GetColumnIndex("Distrito")) : "");
+                        mFechaResolucion.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("FechaDocumento"))) ? mCursor.GetString(mCursor.GetColumnIndex("FechaDocumento")) : "");
+                        mDespacho.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("DespachoDescripcion"))) ? mCursor.GetString(mCursor.GetColumnIndex("DespachoDescripcion")) : "");
+                        mNotificando.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Notificando"))) ? mCursor.GetString(mCursor.GetColumnIndex("Notificando")) : "");
+                        mFormaNotificacion.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Medio"))) ? mCursor.GetString(mCursor.GetColumnIndex("Medio")) : "");
+                        mUrgente.Text = (mCursor.GetString(mCursor.GetColumnIndex("Urgente")).Equals("True")||(mCursor.GetString(mCursor.GetColumnIndex("Urgente")).Equals("true")) ? "Sí" : "No");
+                        mHorario.Text = (!string.IsNullOrEmpty(mCursor.GetString(mCursor.GetColumnIndex("Medio"))) ? "Sí" : "No");
 
 
                     } while (mCursor.MoveToNext());
