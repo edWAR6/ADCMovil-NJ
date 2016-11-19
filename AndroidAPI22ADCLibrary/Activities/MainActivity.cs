@@ -60,17 +60,6 @@ namespace AndroidAPI22ADCLibrary.Activities
 
         protected override void OnActivityResult(int requestCode, Result resultCode, Intent data)
         {
-            //switch (resultCode)
-            //{
-            //    case Result.Ok:
-            //        // Try again.
-            //        _isGooglePlayServicesInstalled = true;
-            //        break;
-
-            //    default:
-            //        Log.Debug("MainActivity", "Unknown resultCode {0} for request {1}", resultCode, requestCode);
-            //        break;
-            //}
 
             base.OnActivityResult(requestCode, resultCode, data);
             //AuthenticationAgentContinuationHelper.SetAuthenticationAgentContinuationEventArgs(requestCode, resultCode, data);
@@ -81,13 +70,6 @@ namespace AndroidAPI22ADCLibrary.Activities
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
-
-            //if (!string.IsNullOrEmpty(Intent.GetStringExtra(EXTRA_NOTIFICANDO)))
-            //{
-            //    notificado = Intent.GetStringExtra("EXTRA_NOTIFICANDO");
-            //}
-
 
             if (!string.IsNullOrEmpty(Intent.GetStringExtra("EXTRA_CODIGO_NOTIFICACION")))
             {

@@ -615,15 +615,14 @@ namespace AndroidAPI22ADCLibrary.Fragments
                     {
                         if (position>=0)
                         {
-                            Intent intent = new Intent(this.Activity, typeof(DetailActivity));
+                            Intent intent = new Intent(this.Activity, typeof(MainActivity));
                             //intent.PutExtra(DetailActivity.EXTRA_NAME, detailActivityTitle[position]);
-                            intent.PutExtra("EXTRA_INFO", notificacionesVerbose[position]);
+                            intent.PutExtra("EXTRA_INFO", "DETALLE");
                             intent.PutExtra("EXTRA_CODIGO_NOTIFICACION", codigoNotificacion[position]);
 
-                            intent.PutExtra(DetailActivity.EXTRA_NAME, detailActivityTitle[position]);
-                            intent.PutExtra(DetailActivity.EXTRA_INFO, notificacionesVerbose[position]);
-                            //codNotificacion = notificaciones[position];
-                            //info = notificacionesVerbose[position];
+                            //intent.PutExtra(DetailActivity.EXTRA_NAME, detailActivityTitle[position]);
+                            //intent.PutExtra(DetailActivity.EXTRA_INFO, notificacionesVerbose[position]);
+
                             StartActivity(intent);
                         }
                         
